@@ -4,6 +4,6 @@ Email : admin@mail.com
 Password: Password@123
 
 **Teacher Login Details** 
-Email : teacher@mail.com
+Email : every teachers mail id 
 Password: pass123
 
