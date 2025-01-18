@@ -1,2 +1,4 @@
 # Student-Attendance-Management-System
-This PHP attendance system project is primarily concerned with dealing with students' attendance and records.
+Admin Login Details Email : admin@mail.com Password: Password@123
+
+Teacher Login Details Email : every teachers mail id Password: pass123
